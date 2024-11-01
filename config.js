@@ -9,7 +9,7 @@ config.telegramApiHash = '';
 
 // server settings
 config.hostname = '127.0.0.1';
-config.port = 3000;
+config.port = 3003;
 
 
 module.exports = config;
